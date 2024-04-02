@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Thorpe Track Pant", 
+        "tamanho": "32", 
+        "cor": "Black",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aero Daily Fitness Tee", 
+        "tamanho": "L", 
+        "cor": "Yellow",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Taurus Elements Shell", 
+        "tamanho": "XL", 
+        "cor": "Blue",
+        "quantidade": 10
+    }
+]
